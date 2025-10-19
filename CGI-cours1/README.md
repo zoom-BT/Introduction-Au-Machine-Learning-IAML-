@@ -17,7 +17,7 @@ Nous recommandons d'utiliser **Anaconda** (ou **Miniconda** pour une version lé
 
 #### 1\. Installation pour Windows / macOS
 
-  * **Où l'installer :** Téléchargez l'installateur graphique (GUI) directement depuis le site officiel d'Anaconda ou de Miniconda.
+  * **Où l'installer :** Téléchargez l'installateur graphique (GUI) directement depuis le [site officiel d'Anaconda](https://www.anaconda.com/download/success) ou de Miniconda.
   * **Comment l'installer :** Suivez les instructions de l'installateur. Assurez-vous de cocher l'option pour ajouter Anaconda à votre variable d'environnement PATH (bien que Conda recommande souvent d'utiliser l'interface Anaconda Prompt).
 
 #### 2\. Installation sur Linux (via Conda)

@@ -8,6 +8,7 @@ Aujourd'hui, je vous invite à explorer ensemble cette odyssée, des premières 
 
 Pour commencer et poser les bases de ce cours introductif, je vous prie de consulter la présentation que j'ai préparée. Elle détaillera nos objectifs, la structure du cours et ce que vous allez apprendre.
 
-👉 Accédez à la présentation de bienvenue ici : [Présentation Canvas de Balbino Tchoutzine](https://www.canva.com/design/DAG0s3319FU/LG1W-s8LrgAavDJ3vN6pVQ/edit?utm_content=DAG0s3319FU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) le cours dans : Introduction-Au-Machine-Learning-IAML-\CGI-cours1\Introduction_Au_ML.md
+👉 Accédez à la présentation de bienvenue ici : [Présentation Canvas de Balbino Tchoutzine](https://www.canva.com/design/DAG0s3319FU/LG1W-s8LrgAavDJ3vN6pVQ/edit?utm_content=DAG0s3319FU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+Le COURS-1 dans : [Introduction-Au-Machine-Learning-IAML](https://github.com/zoom-BT/Introduction-Au-Machine-Learning-IAML-/tree/main/CGI-cours1)
 
 C'est parti pour l'Odyssée de l'Intelligence Artificielle
