@@ -1,4 +1,4 @@
-Bonjour à tous ! Je m'appelle Balbino Tchoutzine, et je suis ravi d'être votre guide pour cette plongée dans l'histoire et la pratique du Machine Learning.
+Hello guys ! Balbino Tchoutzine pour vous servire. Ravi d'être votre guide pour cette plongée dans l'histoire et la pratique du Machine Learning.
 
 Je suis actuellement étudiant en 4e année de Génie Informatique à l'École Nationale Supérieure Polytechnique de Yaoundé, au Cameroun. Ma passion est le Machine Learning et les Réseaux Neuronaux. Plus spécifiquement, je travaille à appliquer l'Intelligence Artificielle pour soutenir les langues africaines sous-représentées, en développant des systèmes de traduction qui, je l'espère, contribueront à combler les fossés culturels et linguistiques sur notre continent.
 
