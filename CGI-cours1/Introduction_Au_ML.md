@@ -36,7 +36,9 @@ L'histoire de l'intelligence artificielle est une véritable aventure, marquée 
 ### 2.1. L'IA Symbolique et les Algorithmes Heuristiques
 L'approche dominante, ou **Good Old-Fashioned AI (GOFAI)**, repose sur la manipulation de symboles et de règles logiques, visant à modéliser la **pensée humaine de haut niveau** (raisonnement, logique). **Logic Theorist** (1956) et **General Problem Solver (GPS)** (1957) sont des exemples clés de cette tentative de résolution de problèmes par des **heuristiques** (règles empiriques).
 
+
 <img width="372" height="135" alt="image" src="https://github.com/user-attachments/assets/216ffcf2-f522-4e20-bc94-f97778a1c80f" />
+
 
 ### 2.2. L'Ère des Systèmes Experts
 Les systèmes experts, comme **MYCIN** (années 70), stockent les connaissances d'un expert humain sous forme de milliers de règles **SI-ALORS** (*If-Then rules*). Ils sont le premier grand succès commercial de l'IA, mais leur rigidité (l'incapacité à apprendre de nouvelles règles) en limite l'usage.
@@ -51,7 +53,9 @@ L'approche symbolique atteint un mur de complexité (le **problème du *common s
 ### 3.1. La Montée du Machine Learning (ML)
 C'est le changement de paradigme fondamental : on passe de la programmation de la connaissance (symbolisme) à l'**apprentissage à partir des données** (statistique). Le Machine Learning devient possible grâce à la loi de Moore (puissance de calcul), l'explosion du Web (données) et le développement d'algorithmes statistiques robustes.
 
+
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/db872403-6fe7-4b15-a3fe-269e3195e467" />
+
 
 ### 3.2. 1997 : Un Tournant Symbolique avec Deep Blue
 L'ordinateur **Deep Blue** d'IBM utilise une approche hybride : une connaissance encodée du jeu + une **recherche arborescente (minimax)** très rapide, lui permettant d'évaluer 200 millions de positions par seconde. C'est le triomphe de la **puissance de calcul**.
@@ -78,7 +82,8 @@ https://youtu.be/8tq1C8spV_g?si=6Q3oOfLmL81S7TeT
 
 ### 4.3. L'Ère des IA Génératives
 L'architecture du **Transformer** (introduite par Google en 2017) résout les problèmes de dépendances à long terme dans les séquences de données (texte, code). Cela a permis la création de modèles massifs (LLMs) comme la série **GPT (Generative Pre-trained Transformer)**. Ces modèles génératifs représentent un saut quantique dans les capacités de **compréhension** et de **génération** de langage naturel et de contenu multimédia.
-<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/61459d4f-599f-4ae0-a10e-cc9b9ffc7c31" />
+
+<img width="200" height="108" alt="image" src="https://github.com/user-attachments/assets/61459d4f-599f-4ae0-a10e-cc9b9ffc7c31" />
 
 
 ***
@@ -101,6 +106,7 @@ Le **Machine Learning (ML)** est une sous-discipline de l'IA qui fournit aux sys
 | **Fonction d'Activation (Activation Function)** | Détermine si un neurone doit être activé (transmet un signal) ou non, introduisant la non-linéarité nécessaire aux réseaux de neurones. |
 
 ### Algorithmes de Machine Learning 🧮
+
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/984f5bbf-3c77-4274-8ade-a0dd0bc0fdbc" />
 
 
@@ -123,7 +129,7 @@ Le **Machine Learning (ML)** est une sous-discipline de l'IA qui fournit aux sys
 
 ### Librairies et Outils de Machine Learning 🔧
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4cd400cc-181f-414e-b45b-b80b660ab8cc" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/4cd400cc-181f-414e-b45b-b80b660ab8cc" />
 
 
 | Outil | Rôle | Description |
