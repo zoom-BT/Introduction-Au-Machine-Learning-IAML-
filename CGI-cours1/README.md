@@ -4,11 +4,11 @@
 
 **Auteur : Balbino Tchoutzine | Zindi Ambassador**
 
-## 🎯 Prérequis du Cours
+## 📜 Prérequis du Cours
 
 Pour suivre ce cours d'introduction au Machine Learning, les participants doivent avoir :
 
-1.  **Avoir suivi le pré-cours de remise à niveau sur Python** (les bases de la programmation, structures de données, boucles et fonctions).
+1.  **Avoir suivi le pré-cours de remise à niveau sur Python du puissant Azangue L** (les bases de la programmation, variables, structures de données, boucles et fonctions).
 2.  **Installé l'environnement de développement** (Anaconda ou Miniconda) pour le Machine Learning.
 
 ### 🛠️ Installation des Outils de Développement (Anaconda / Miniconda)
